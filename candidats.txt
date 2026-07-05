@@ -1,0 +1,7 @@
+Louna | 16 | Moyenne : 14.0 | Admis
+Léo | 15 | Moyenne : 11.0 | Admis
+Julien | 18 | Moyenne : 15.0 | Admis
+Jean | 13 | Moyenne : 16.5 | Admis
+Marc | 21 | Moyenne : 9.0 | Refusé
+Tristan | 16 | Moyenne : 16.5 | Admis
+Léna | 17 | Moyenne : 17.0 | Admis
